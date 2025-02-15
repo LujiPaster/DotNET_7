@@ -1,1 +1,2 @@
 # DotNET_7
+# JUST FOR BEGINNERS
